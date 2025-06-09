@@ -1,5 +1,2 @@
-## Hands-on practice of Version Control System(VCS)
-### Git Workflow 
-### git and GitHub.
-
-
+#### 📚 Resources
+[Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
